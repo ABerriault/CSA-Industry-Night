@@ -1,4 +1,407 @@
-- name: Company ABC
-  location: Second Floor Hatch
-  site: https://abc.com
-  description:
+- name: JMP Solutions
+  location: TBD
+  site: https://www.jmpsolutions.com/
+  description: |
+    <div>
+      <p>
+          JMP Solutions is an Industrial Technology Partner to Fortune 1000 manufacturers and producers providing
+          engineering services and turnkey solutions in seven core areas: process automation, control system integration,
+          IIoT and MES, automation and robotics, automated guided vehicles, material handling, and networking and security
+          applications. With 15 business units in the U.S. and Canada, JMP services customers locally, delivering more
+          than 25,000 solutions to 1,000-plus clients over the course of its 30-year history. Students will get the chance
+          to speak with JMP team members from the following areas:
+          <ul>
+              <li>Automation & Robotics (London)</li>
+              <li>AGVs (Cambridge)</li>
+              <li>Control Systems (Cambridge)</li>
+              <li>IIoT & MES (Vaughan)</li>
+          </ul>
+      </p>
+      <b>Helpful Links</b>
+      <ul>
+          <li><a href="https://www.jmpsolutions.com/about/careers/available-careers/" target="_blank">JMP Solutions Career Page</a></li>
+          <li><a href="https://www.linkedin.com/company/jmpsolutions/" target="_blank">JMP Solutions LinkedIn Page</a></li>
+          <li><a href="https://www.youtube.com/user/JMPEngineering" target="_blank">JMP Solutions YouTube Channel</a></li>
+      </ul>
+      <b>Available Co-op and Internship Positions</b>
+      <ul>
+          <li><a href="https://lnkd.in/gipyJmM" target="_blank">Cambridge Control Systems</a></li>
+          <li><a href="https://lnkd.in/g_5GEFv" target="_blank">Orangeville Material Handling (Mechanical Design)</a></li>
+          <li><a href="https://lnkd.in/geHnFNa" target="_blank">Orangeville Material Handling (Mechatronics)</a></li>
+          <li><a href="https://lnkd.in/gvaFGCR" target="_blank">San Antonio Control Systems</a></li>
+          <li><a href="https://lnkd.in/gAbe3pS" target="_blank">Vaughan IIoT & MES</a></li>
+      </ul>
+      <b>Full-Time New Graduate Positions</b>
+      <ul>
+          <li><a href="https://lnkd.in/gAraCeY" target="_blank">New Graduate Rotational Program</a></li>
+          <li><a href="https://lnkd.in/gCi67uH" target="_blank">Fairfield Process Automation</a></li>
+          <li><a href="https://lnkd.in/gaQnxhX" target="_blank">Lexington Control Systems</a></li>
+          <li><a href="https://lnkd.in/gCRkHvk" target="_blank">London Automation & Robotics (Mechanical Design)</a></li>
+          <li><a href="https://lnkd.in/g3aMk7e" target="_blank">London Automation & Robotics (Robotics & Controls)</a></li>
+          <li><a href="https://lnkd.in/gKCcS-R" target="_blank">Orangeville Material Handling (Mechanical Design)</a></li>
+          <li><a href="https://lnkd.in/gYgC6vE" target="_blank">Orangeville Material Handling (Mechatronics)</a></li>
+          <li><a href="https://lnkd.in/gQUuYXr" target="_blank">Vaughan Control Systems</a></li>
+      </ul>
+    </div>
+
+- name: WIISTEM
+  location: TBD
+  site: https://wiistem.ca
+  description: |
+    <div>
+      <p>
+          Join the diverse, challenging and innovative insurance industry.<br>
+
+          Insurance is a dynamic industry offering a diverse and exciting range of career opportunities. We’re always
+          earching for new and innovative ways to protect our clients by using ever-evolving technology to deliver an
+          exceptional client experience.  If you’re looking to develop a career that allows you to deliver financial
+          security and unparalleled ease of mind to your clients, we encourage you to explore the wide range of roles
+          the industry has to offer.
+      </p>
+      <p>
+          <b>Considering a career in the exciting world of insurance? Apply today; we can't wait to work with you!</b><br>
+
+          Starting in Spring 2019, internship opportunities are available to female university students in science,
+          technology, engineering and mathematics (STEM) programs who are interested in a dynamic career within the
+          insurance industry.
+      </p>
+      <b>Candidates must meet the following criteria:</b>
+      <ul>
+          <li>A female first to third year student studying in a STEM program at a recognized Canadian post-secondary institution</li>
+          <li>Demonstrated analytical, problem solving and data management skills</li>
+          <li> Solid communication skills along with drive and curiosity to learn</li>
+      </ul>
+      <b>Program structure includes:</b>
+      <ul>
+          <li>A minimum of two, 4-8 month internship/co-op placements with two different employers</li>
+          <li>Placements in downtown Toronto and the Greater Toronto Area</li>
+          <li>A dedicated mentor assigned for the duration of the program</li>
+          <li>An internship buddy for each rotation</li>
+          <li>On the job training plus shared networking opportunities across employers</li>
+          <li>Connection to external networks and institutions including ASPIRE and the P&C Insurance Institute</li>
+      </ul>
+      <p>
+          The program is supported by the employers below, and delivered in partnership with ASPIRE, a talent initiative
+          led by Toronto Finance International. <br>
+          Participating employers: Aon, Aviva, Manulife, RBC Insurance, Sun Life Financial, Swiss Re, Travelers.
+      </p>
+
+      <b>Available Positions</b>
+      <ul>
+          <li><a href="https://magnet.whoplusyou.com/posting/626098425" target="_blank">Life & Health Products Research & Development Intern</a></li>
+          <li><a href="https://magnet.whoplusyou.com/posting/626098408" target="_blank">Innovation Web Application Developer Intern/Co-op</a></li>
+          <li><a href="https://magnet.whoplusyou.com/posting/626098393" target="_blank">Data Science - Intern</a></li>
+          <li><a href="https://magnet.whoplusyou.com/posting/626098298" target="_blank">Information Systems Co-op</a></li>
+      </ul>
+    </div>
+
+- name: Fiix
+  location: TBD
+  site: https://www.fiixsoftware.com/
+  description: |
+    <div>
+      <p>
+          Our purpose is simple – to create a more sustainable world. At Fiix, our mission is to make every maintenance
+          team successful by enabling the adoption of a CMMS. We’re focused on building a better way forward through our
+          core values. And we’re not just talking about software. We’re looking for big thinkers with small egos to join
+          us on our mission to change tomorrow. We’re totally invested in awesome!
+      </p>
+    </div>
+
+- name: Manulife
+  location: TBD
+  site: https://www.manulife.ca
+  description: |
+    <div>
+      <p>
+          We're not some stuffy, old insurance company. We’re actually 1200+ technology specialists dedicated to
+          improving the health and wealth of Canadians – and doing it in some really cool new ways. We are tech-focused
+          and driven to build everything using a modern technology stack while following dynamic dev practices. When you
+          join Manulife, you will make a real difference by working on some pretty impactful and meaningful projects.
+          You will have the opportunity to make a difference to how end users interact with our technology versus making
+          small changes to an existing system. <br><br>
+
+          Are you interested in making a difference by working on impactful projects while gaining real-world experience
+          in the latest and greatest technologies? Awesome, because we are hiring for a range of Co-op roles;
+          Software Engineers, Data Engineers, Automation Engineers, Mobile Software Engineers, Salesforce Engineers,
+          Platform Engineers, Analysts, and Project Coordinators! Come find out how you can start your career in tech
+          at Manulife in 2020 - we can’t wait to meet you!
+      </p>
+    </div>
+
+- name: Intel
+  location: TBD
+  site: https://www.intel.ca
+  description: |
+    <div>
+      <b>Internship/Co-op Positions</b>
+      <p>
+        We realize the future of technology not only relies on software development, but also on the development of our
+        future employees and innovators. As a Software Development intern at Intel you will not only gain valuable
+        hands-on experience within the software development industry but you could also have the potential to
+        innovate the world of technology!<br><br>
+
+        At Intel, you’ll gain real-time experience modifying, editing, and debugging software products in accordance
+        with software architecture specifications and internal procedures. You also gain experience with development
+        tasks, including writing, debugging and profiling source code.<br><br>
+
+        You’ll need analytical thinking skills and a willingness to learn. A basic knowledge of software testing and
+        being familiar with script languages (such as Perl, Bash, and Python) coupled with a familiarity with source
+        control systems and defect-tracking systems will assist you in a successful Intern experience.
+      </p>
+      <b>Full-Time Graduate Positions</b>
+      <p>
+          You worked hard and studied for years to earn your degree. Now you are searching for a place where you can put
+          all that hard work to use, at a job that satisfies your passion and curiosity. At Intel, you’ll discover
+          endless opportunities for any field of study. In fact, few other companies offer such a wide breadth of
+          opportunities for graduates. From Business to Engineering, undergraduate to PhD, Intel can help you make the
+          most of your education.
+      </p>
+    </div>
+
+- name: ArcelorMittal Dofasco
+  location: TBD
+  site: https://dofasco.arcelormittal.com/
+  description: |
+    <div>
+      <p>
+        ArcelorMittal Dofasco plays a key role in North America’s advanced manufacturing supply chain working with the
+        top automotive, energy, packaging and construction brands to develop lighter, stronger and more sustainable
+        products – from cans to cars. <br><br>
+
+        Founded in 1912, we are Hamilton’s largest private sector employer with approximately 5,000 employees shipping
+        4.5 million net tons of high quality flat carbon steel annually. Around the world, the ArcelorMittal Group
+        employs 240,000 employees in 60 countries and looks to flagship sites like ArcelorMittal Dofasco to develop
+        new technology and products that are fundamentally transforming tomorrow.<br><br>
+
+        ArcelorMittal Dofasco’s iconic motto Our Product is Steel. Our Strength is People.® is a true expression of our
+        belief that people are the company’s competitive advantage. Underpinning this are our values of Quality,
+        Sustainability and Leadership – brought to life by generations of employees who have come to work for more
+        than 100 years creating world class products, processes and services.
+      </p>
+    </div>
+
+- name: FDM Group
+  location: TBD
+  site: https://www.fdmgroup.com
+  description: |
+    <div>
+      <p>
+        FDM’s unique business model provides high-quality training to university graduates, military veterans and
+        returners to work, transitioning them into professional IT and business consultants.
+      </p>
+      <b>Intern Positions</b>
+      <p>
+        An internship with FDM is a great way to start your career and make the most of your summer, whether you’re
+        looking for a career in IT or exploring options within wider business operations.
+      </p>
+      <b>Why FDM?</b>
+      <ul>
+          <li>Full-time, paid internship working with a leading graduate employer</li>
+          <li>Opportunities in a variety of business specialities including finance, marketing, sales, HR, IT and more</li>
+          <li>Induction period includes relevant training for your role</li>
+          <li>Learn in-demand skills working with teams of experienced professionals</li>
+          <li>Exposure to our fun and dynamic working environment</li>
+          <li>Collaborative project working alongside other undergraduate interns</li>
+      </ul>
+    </div>
+
+- name: L3 Harris
+  location: TBD
+  site: https://www.wescam.com
+  description: |
+    <div>
+      <p>
+        L3 WESCAM designs and manufactures industry-leading multi-spectral and multi-sensor electro optic infrared
+        (EO/IR) imaging and targeting sensor systems, and fully integrated mission systems for air, land and sea
+        domains.<br><br>
+
+        With thousands of systems fielded across 80 plus countries worldwide, WESCAM’s systems can be found on hundreds
+        of different types of platforms including fixed-wing, rotary-wing, unmanned aerial vehicle (UAV) and aerostat
+        airborne platforms, surface vehicles and various marine-based platforms. Providing service where and when it’s
+        needed to our military, homeland security and law enforcement customers, WESCAM’s global in-service support
+        footprint includes 14 service centers, remote diagnostic testing of fielded systems, simulation training and
+        mission rehearsal capability, eLearning, classroom, in-flight and in-vehicle training.
+      </p>
+      <b>Student Co-op Program</b>
+      <p>
+        L3 WESCAM is committed to supporting academic excellence and lifelong learning by providing a meaningful work
+        experience that complements a student’s career direction. The objective of the WESCAM student co-op program
+        is to provide a feeder system of highly-qualified and highly-motivated students for permanent hire upon
+        graduating into WESCAM or another high-technology organization.
+      </p>
+      <b>Benefits of the WESCAM Co-op Program</b>
+      <ul>
+          <li>Gain real work experience while attending college or university</li>
+          <li>Receive a competitive hourly salary</li>
+          <li>Receive career and development training</li>
+          <li>Work with leading-edge technology and people</li>
+          <li>Work on challenging and relevant projects</li>
+      </ul>
+    </div>
+
+- name: AMD
+  location: TBD
+  site: https://www.amd.com
+  description: |
+    <div>
+      <p>
+        Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on
+        leading-edge semiconductor products. From those modest beginnings, AMD has grown into a global company of
+        10,000 people, achieving many important industry firsts along the way. AMD today develops high-performance
+        computing and visualization products to solve some of the world’s toughest and most interesting challenges.
+        There has never been a better time to be in the semiconductor industry, and we are ready to tackle the next
+        50 years with high-performance computing and graphics solutions that transform all of our lives.
+      </p>
+    </div>
+
+- name: Molex
+  location: TBD
+  site: https://www.molex.com
+  description: |
+    <div>
+      <p>
+        When you're developing products that meet tomorrow's demands, you need a partner with the expertise to solve
+        your challenges. Molex (a subsidiary of Koch Industries) is a globally recognized provider of electronic
+        solutions in a wide range of industries, including data communications, consumer electronics, industrial,
+        automotive, commercial vehicle and medical.<br><br>
+
+        Through our collaborative process, we take a multi-dimensional approach that brings together engineers, product
+        designers and manufacturing to ensure the design cycle is smooth and seamless.<br><br>
+
+        We have design and manufacturing facilities around the world, with an expert team of problem-solvers who work
+        across borders to help bring your vision to life. With more than 75 years of experience, we lead the industry
+        in R&D investment, striving to develop and deliver innovative, high-quality, reliable solutions that can be
+        customized to meet your needs.<br><br>
+
+        Together, we can turn your vision into reality.
+      </p>
+    </div>
+
+- name: Hatch
+  location: TBD
+  site: https://www.hatch.com/
+  description: |
+    <div>
+      <p>
+        Our organization is passionately committed to the pursuit of a better world through positive change. We embrace
+        your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and
+        innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience
+        spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market
+        sectors.<br><br>
+
+        We are employee-owned and independent—free to bring our best thinking to your business. Our exceptional, diverse
+        teams combine vast engineering and business knowledge, working in partnership with our clients to develop market
+        strategies, manage and optimize production, develop new game-changing technologies, and design and deliver
+        complex capital projects.<br><br>
+
+        We work closely with the communities in which we serve to ensure that our solutions optimize environmental
+        protection, economic prosperity, social justice, and cultural vibrancy. We want their businesses, ecosystems,
+        and communities to thrive, both now and into the future.<br><br>
+
+        Our people are passionate about our corporate purpose and values. We believe in long-term relationships with our
+        partners, and are committed to our clients’ lasting success.<br><br>
+
+        We are “entrepreneurs with a technical soul.”
+      </p>
+    </div>
+
+- name: Weever Apps
+  location: TBD
+  site: https://weeverapps.com
+  description: |
+    <div>
+      <p>
+        Digital workflows provide management with more control and visibility, reduces errors and mistakes, and
+        automates processes, saving staff time and organizations money. Digitization promotes efficiency and
+        collaboration, allowing your teams to get more done in less time. Let's chat about how we can help you work
+        better.
+      </p>
+    </div>
+
+- name: Caliber Communications
+  location: TBD
+  site: https://calibercommunications.ca/
+  description: |
+    <div>
+      <p>
+        Caliber looks to change the way people view security. Caliber Communications is a technology company that has
+        engineered and developed a unique communications platform which operates on the cellular backbone.  We have
+        created one of the most  flexible  systems  available.  Utilizing  our  patented  communication technology, we
+        are now offering the world’s first modular security system. This platform is specifically utilized for the
+        application of remote security monitoring for construction projects. Our communication technology allows the
+        integration of any surveillance equipment your company may need.
+      </p>
+    </div>
+
+- name: Delta Hacks
+  location: TBD
+  site: https://www.deltahacks.com/
+  description: |
+    <div>
+      <p>
+        DeltaHacks is the annual hackathon for change, it's even in the name! The primary focus of DeltaHacks is to
+        enable hackers from all over to make a change, whether it be in education, finance, health or any other field,
+        we're extremely passionate about hacking to make a positive change! We work with McMaster University to welcome
+        hackers of all levels, from the novice to the most experienced! We supply the food, venue, and workshops to
+        provide even the most seasoned veterans with new experiences. Now in our 6th year running, DeltaHacks VI is our
+        biggest and best DeltaHacks yet. Join us this January and take part in an experience you won’t forget!
+      </p>
+
+      <b>What is a hackathon?</b>
+      <p>
+        A hackathon is just a fancy word for a technical competition! We provide our attendees the opportunity to work
+        with new people on cool ideas, and the resources necessary to make those ideas come to life. We do not condone
+        nor do we allow any actual hacking or other illegal activities!
+      </p>
+
+      <b>What is DeltaHacks?</b>
+      <p>
+        DeltaHacks is McMaster's annual student hackathon. This year, DeltaHacks will be a 700-participant event taking
+        place late January. We hope to inspire students to hack for positive changes that align with their passions -
+        whether it's environment, health, inequality, education, etc. And hence the name “delta” - as “Δ” stands for
+        change.
+      </p>
+    </div>
+
+- name: Communitech
+  location: TBD
+  site: http://www.communitech.ca
+  description: |
+    <div>
+      <p>
+        Communitech helps tech companies start, grow and succeed. That’s our mission, our mantra, our reason for being.
+        Everything we do ties back to collaboration and helping—values that run deep in our organization.
+      </p>
+      <p>
+        Communitech was founded in 1997 by a group of entrepreneurs committed to making Waterloo Region a global
+        innovation leader. At the time it was crazy talk, but somehow this community managed to pull it off. Today,
+        Communitech is a public-private innovation hub that supports a community of more than 1,400 companies — from
+        startups to scale-ups to large global players.<br><br>
+
+        Communitech helps tech companies start, grow and succeed in three distinct ways:
+      </p>
+      <ul>
+         <li>Communitech is a place – the centre of gravity for entrepreneurs and innovators. A clubhouse for building cool shit and great companies.</li>
+         <li>Communitech delivers programs – helping companies at all stages with access to capital, customers and talent. We are here to help them grow and innovate.</li>
+         <li>Communitech partners in building a world-leading ecosystem – making sure we have all the ingredients (and the brand) to go from a small startup to a global giant.</li>
+      </ul>
+      <p>
+        Our team is dedicated and passionate. Regardless of role, we work together every day to help our tech companies
+        overcome barriers to success. Team members can often be found throughout the community at all kinds of events.
+        Next time you see one of us, say hi.
+      </p>
+    </div>
+
+- name: ECCS
+  location: TBD
+  site: https://www.eng.mcmaster.ca/co-op-career/co-op-program
+  description: |
+    <div>
+      <p>
+        Engineering Co-op & Career services offers a wide range of resources and services to all McMaster Engineering
+        students to support your career development and job hunt.
+      </p>
+    </div>
+
+

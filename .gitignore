@@ -1,5 +1,8 @@
 # macOS file management
 .DS_Store
 
+# JetBrains IDE
+.idea
+
 # Jekyll files
 _site/

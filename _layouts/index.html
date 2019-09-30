@@ -10,9 +10,9 @@
         <div class="row justify-content-center">
     
             {% for employer in site.data.employers %}
-            <div class="col-md-3 col-sm-1 m-3 border border-primary" >
+            <div class="col-md-4 col-sm-1 m-3 border border-primary" >
               <h1>{{ employer.name }}</h1>
-
+                <div style="text-align: left">{{ employer.description }}</div>
             </div>
             
             {% endfor %}
