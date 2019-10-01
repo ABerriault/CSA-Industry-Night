@@ -28,7 +28,7 @@
                   <h6 class="card-subtitle mb-2 text-muted">{{ employer.location }}</h6>
                 
                   {{ employer.description }}
-                  <a href="{{ employer.site }}" class="btn btn-success mx-auto d-block">Employer's Site</a>
+                  <a href="{{ employer.site }}" class="btn btn-success d-block">Employer's Site</a>
                 </div>
               </div>
             {% endfor %}
@@ -36,7 +36,7 @@
         </div>
       </div>
       <!-- Button trigger modal -->
-      <div class="position-fixed" style="bottom: 5%; right: 5%; z-index: 99;">
+      <div class="position-fixed" style="bottom: 1rem; right: 1rem; z-index: 99;">
         <button type="button" class="btn btn-danger text-light" data-toggle="modal" data-target="#layoutModal">
           Layout
         </button>
