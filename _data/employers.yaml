@@ -1,6 +1,6 @@
 - name: AMD
   location: 2nd Floor Hatch
-  image: cssfireball.svg
+  image: logo-amd.png
   site: https://www.amd.com
   description: |
     <div>
@@ -16,7 +16,7 @@
 
 - name: ArcelorMittal Dofasco
   location: 2nd Floor Hatch - Room 204
-  image: cssfireball.svg
+  image: logo-dofasco.jpg
   site: https://dofasco.arcelormittal.com/
   description: |
     <div>
@@ -39,7 +39,7 @@
 
 - name: Caliber Communications
   location: 2nd Floor Hatch
-  image: cssfireball.svg
+  image: logo-caliber.png
   site: https://calibercommunications.ca/
   description: |
     <div>
@@ -55,7 +55,7 @@
 
 - name: Communitech
   location: 1st Floor Hatch
-  image: cssfireball.svg
+  image: logo-communitech.png
   site: http://www.communitech.ca
   description: |
     <div>
@@ -85,7 +85,7 @@
 
 - name: Delta Hacks
   location: 1st Floor Hatch
-  image: cssfireball.svg
+  image: logo-deltahacks.png
   site: https://www.deltahacks.com/
   description: |
     <div>
@@ -116,7 +116,7 @@
 
 - name: ECCS
   location: 1st Floor Hatch
-  image: cssfireball.svg
+  image: logo-eccs.jpg
   site: https://www.eng.mcmaster.ca/co-op-career/co-op-program
   description: |
     <div>
@@ -129,7 +129,7 @@
 
 - name: FDM Group
   location: 2nd Floor Hatch - Room 204
-  image: cssfireball.svg
+  image: logo-fdm.jpg
   site: https://www.fdmgroup.com
   description: |
     <div>
@@ -155,7 +155,7 @@
 
 - name: Fiix Software
   location: 2nd Floor Hatch - Room 204
-  image: cssfireball.svg
+  image: logo-fiix.png
   site: https://www.fiixsoftware.com/
   description: |
     <div>
@@ -169,7 +169,7 @@
 
 - name: Hatch
   location: 2nd Floor Hatch - Room 204
-  image: cssfireball.svg
+  image: logo-hatch.jpg
   site: https://www.hatch.com/
   description: |
     <div>
@@ -198,7 +198,7 @@
 
 - name: Intel
   location: 1st Floor Hatch
-  image: cssfireball.svg
+  image: logo-intel.png
   site: https://www.intel.ca
   description: |
     <div>
@@ -228,7 +228,7 @@
     </div>
 
 - name: JMP Solutions
-  image: cssfireball.svg
+  image: logo-jmp.jpg
   location: 2nd Floor Hatch
   site: https://www.jmpsolutions.com/
   description: |
@@ -276,8 +276,8 @@
 
 - name: L3 Harris
   location: 2nd Floor Hatch
-  image: cssfireball.svg
-  site: https://www.wescam.com
+  image: logo-l3.png
+  site: https://www.iseebeyond.com/
   description: |
     <div>
       <p>
@@ -312,7 +312,7 @@
 
 - name: Manulife
   location: 2nd Floor Hatch - Room 204
-  image: cssfireball.svg
+  image: logo-manulife.png
   site: https://www.manulife.ca
   description: |
     <div>
@@ -334,7 +334,7 @@
 
 - name: Molex
   location: 2nd Floor Hatch
-  image: cssfireball.svg
+  image: logo-molex.png
   site: https://www.molex.com
   description: |
     <div>
@@ -358,7 +358,7 @@
 
 - name: Weever Apps
   location: 2nd Floor Hatch
-  image: cssfireball.svg
+  image: logo-weever.png
   site: https://weeverapps.com
   description: |
     <div>
@@ -372,7 +372,7 @@
 
 - name: WIISTEM
   location: 1st Floor Hatch
-  image: cssfireball.svg
+  image:
   site: https://wiistem.ca
   description: |
     <div>
