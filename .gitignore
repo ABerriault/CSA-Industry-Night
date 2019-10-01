@@ -6,3 +6,4 @@
 
 # Jekyll files
 _site/
+.lock
