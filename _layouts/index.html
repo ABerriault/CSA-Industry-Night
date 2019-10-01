@@ -13,7 +13,7 @@
         <div class="accordion col-sm-12">
           <div class="card p-3">
             {% for employer in site.data.employers %}
-            <div class="card-header" id="heading{{ employer.name }}">
+            <div class="card-header text-center" id="heading{{ employer.name }}">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#{{ employer.name }}" aria-expanded="false" aria-controls="{{ employer.name }}">
                     {{ employer.name }}
@@ -23,11 +23,12 @@
 
             <div id="{{ employer.name }}" class="collapse" aria-labelledby="collapse{{ employer.name }}" data-parent="#accordion">
                 <div class="card-body">
-                  <img src="/assets/images/{{ employer.image }}" class="card-img-top" alt="Logo" style="padding: 0.5rem">
+                  <img src="/assets/images/{{ employer.image }}" class="card-img-top w-25 mx-auto d-block" alt="Logo" style="padding: 0.5rem">
                   <h5 class="card-title">{{ employer.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{ employer.location }}</h6>
+                
                   {{ employer.description }}
-                  <a href="{{ employer.site }}" class="btn btn-primary">Employer's Site</a>
+                  <a href="{{ employer.site }}" class="btn btn-success mx-auto d-block">Employer's Site</a>
                 </div>
               </div>
             {% endfor %}
