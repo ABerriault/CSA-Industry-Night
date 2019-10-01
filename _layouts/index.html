@@ -1,19 +1,34 @@
 {% include head.html %}
   <body class="bg-light">
+    {% include navigation.html %}
 
     <div class="container">
-      <div class="row">
-        {% for employer in site.data.employers %}
-        <div class="card col-sm-12 col-md-8 col-lg-3 p-3">
-          <img src="/assets/images/cssfireball.svg" class="card-img-top" alt="Logo" style="padding: 0.5rem">
-          <div class="card-body">
-            <h5 class="card-title">{{ employer.name }}</h5>
-            <h6 class="card-subtitle mb-2 text-muted">{{ employer.location }}</h6>
-            {{ employer.description }}
-            <a href="{{ employer.site }}" class="btn btn-primary">Go somewhere</a>
+      <div class="row justify-content-center p-3">
+
+
+        <div class="accordion col-sm-12">
+          <div class="card p-3">
+            {% for employer in site.data.employers %}
+            <div class="card-header" id="heading{{ employer.name }}">
+                <h5 class="mb-0">
+                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#{{ employer.name }}" aria-expanded="false" aria-controls="{{ employer.name }}">
+                    {{ employer.name }}
+                  </button>
+                </h5>
+            </div>
+
+            <div id="{{ employer.name }}" class="collapse" aria-labelledby="collapse{{ employer.name }}" data-parent="#accordion">
+                <div class="card-body">
+                  <img src="/assets/images/{{ employer.image }}" class="card-img-top" alt="Logo" style="padding: 0.5rem">
+                  <h5 class="card-title">{{ employer.name }}</h5>
+                  <h6 class="card-subtitle mb-2 text-muted">{{ employer.location }}</h6>
+                  {{ employer.description }}
+                  <a href="{{ employer.site }}" class="btn btn-primary">Employer's Site</a>
+                </div>
+              </div>
+            {% endfor %}
           </div>
         </div>
-        {% endfor %}
       </div>
     </div>
 
