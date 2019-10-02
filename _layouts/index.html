@@ -15,12 +15,15 @@
             {% assign employers_by_location = (site.data.employers | sort: 'location') | reverse %}
             {% for employer in employers_by_location %}
             <div class="card-header text-center" id="heading{{ employer.name }}">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#{{ employer.name }}" aria-expanded="false" aria-controls="{{ employer.name }}">
+                <h4 class="mb-0">
+                  <button style="font-size: 1.5rem" class="btn btn-link collapsed" data-toggle="collapse" data-target="#{{ employer.name }}" aria-expanded="false" aria-controls="{{ employer.name }}">
                     {{ employer.name }}
                   </button>
+                  {%if employer.name == "AMD" %}
+                  <h4>Employer of the Week</h4>
+                  {% endif %}
                   <h6 class="text-muted">{{ employer.location }}</h6>
-                </h5>
+                </h4>
             </div>
 
             <div id="{{ employer.name }}" class="collapse" aria-labelledby="collapse{{ employer.name }}" data-parent="#accordion">

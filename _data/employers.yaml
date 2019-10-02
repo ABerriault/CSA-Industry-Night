@@ -1,19 +1,3 @@
-- name: AMD
-  location: 3rd Floor Hatch - H324
-  image: logo-amd.png
-  site: https://www.amd.com
-  description: |
-    <div>
-      <p>
-        Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on
-        leading-edge semiconductor products. From those modest beginnings, AMD has grown into a global company of
-        10,000 people, achieving many important industry firsts along the way. AMD today develops high-performance
-        computing and visualization products to solve some of the world’s toughest and most interesting challenges.
-        There has never been a better time to be in the semiconductor industry, and we are ready to tackle the next
-        50 years with high-performance computing and graphics solutions that transform all of our lives.
-      </p>
-    </div>
-
 - name: ArcelorMittal Dofasco
   location: 3rd Floor Hatch - H324
   image: logo-dofasco.jpg
@@ -34,6 +18,22 @@
         belief that people are the company’s competitive advantage. Underpinning this are our values of Quality,
         Sustainability and Leadership – brought to life by generations of employees who have come to work for more
         than 100 years creating world class products, processes and services.
+      </p>
+    </div>
+
+- name: AMD
+  location: 3rd Floor Hatch - H324
+  image: logo-amd.png
+  site: https://www.amd.com
+  description: |
+    <div>
+      <p>
+        Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on
+        leading-edge semiconductor products. From those modest beginnings, AMD has grown into a global company of
+        10,000 people, achieving many important industry firsts along the way. AMD today develops high-performance
+        computing and visualization products to solve some of the world’s toughest and most interesting challenges.
+        There has never been a better time to be in the semiconductor industry, and we are ready to tackle the next
+        50 years with high-performance computing and graphics solutions that transform all of our lives.
       </p>
     </div>
 
