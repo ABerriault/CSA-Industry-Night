@@ -1,5 +1,5 @@
 - name: AMD
-  location: 2nd Floor Hatch
+  location: 3rd Floor Hatch - H324
   image: logo-amd.png
   site: https://www.amd.com
   description: |
@@ -15,7 +15,7 @@
     </div>
 
 - name: ArcelorMittal Dofasco
-  location: 2nd Floor Hatch - Room 204
+  location: 3rd Floor Hatch - H324
   image: logo-dofasco.jpg
   site: https://dofasco.arcelormittal.com/
   description: |
@@ -38,7 +38,7 @@
     </div>
 
 - name: Caliber Communications
-  location: 2nd Floor Hatch
+  location: 2nd Floor Hatch - H204
   image: logo-caliber.png
   site: https://calibercommunications.ca/
   description: |
@@ -114,21 +114,27 @@
       </p>
     </div>
 
-- name: ECCS
-  location: 1st Floor Hatch
+- name: Engineering Co-op & Career Services
+  location: 3rd Floor Hatch
   image: logo-eccs.jpg
   site: https://www.eng.mcmaster.ca/co-op-career/co-op-program
   description: |
     <div>
       <p>
-        Engineering Co-op & Career services offers a wide range of resources and services to all McMaster Engineering
-        students to support your career development and job hunt.
+        Engineering Co-op and Career Services is here to help you secure your 4, 8, 12 or 16 month co-op as well as your
+        full-time position after graduation.  Are you having trouble writing a cover letter? Do you need your resume
+        critiqued? Are you looking to practice your interview abilities? Drop by the Co-op & Career Services table to
+        meet Adam Pepler. If you are in mechatronics, software engineering or computer science, he is your co-op
+        coordinator! Get to know him!<br><br>
+
+        Automation engineering technology students, make sure to connect with your co-op coordinator,
+        Jesse Sahota (<a href="https://www.linkedin.com/in/jesse-sahota/">https://www.linkedin.com/in/jesse-sahota/</a>)
       </p>
     </div>
 
 
 - name: FDM Group
-  location: 2nd Floor Hatch - Room 204
+  location: 2nd Floor Hatch
   image: logo-fdm.jpg
   site: https://www.fdmgroup.com
   description: |
@@ -154,7 +160,7 @@
     </div>
 
 - name: Fiix Software
-  location: 2nd Floor Hatch - Room 204
+  location: 2nd Floor Hatch - H204
   image: logo-fiix.png
   site: https://www.fiixsoftware.com/
   description: |
@@ -168,7 +174,7 @@
     </div>
 
 - name: Hatch
-  location: 2nd Floor Hatch - Room 204
+  location: 2nd Floor Hatch
   image: logo-hatch.jpg
   site: https://www.hatch.com/
   description: |
@@ -275,7 +281,7 @@
     </div>
 
 - name: L3 Harris
-  location: 2nd Floor Hatch
+  location: 2nd Floor Hatch - H204
   image: logo-l3.png
   site: https://www.iseebeyond.com/
   description: |
@@ -311,7 +317,7 @@
     </div>
 
 - name: Manulife
-  location: 2nd Floor Hatch - Room 204
+  location: 2nd Floor Hatch - H204
   image: logo-manulife.png
   site: https://www.manulife.ca
   description: |
