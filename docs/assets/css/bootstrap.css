@@ -10038,3 +10038,14 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.logoImg {
+  padding: 1rem;
+  width: 75%;
+}
+
+@media (min-width: 768px){
+  .logoImg {
+    width: 50%;
+  }
+}
